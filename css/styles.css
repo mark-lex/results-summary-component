@@ -101,7 +101,7 @@ body {
 }
 
 .container .righty .red {
-    font-weight: 500;
+    font-weight: 600;
     color: hsl(0, 100%, 67%);
     background-color: hsla(0, 100%, 67%, 0.1);
     border-radius: 8px;
@@ -120,7 +120,7 @@ body {
 }
 
 .container .righty .yellow {
-    font-weight: 500;
+    font-weight: 600;
     color: hsl(39, 100%, 56%);
     background-color: hsla(39, 100%, 56%, 0.1);
     border-radius: 8px;
@@ -139,7 +139,7 @@ body {
 }
 
 .container .righty .green {
-    font-weight: 500;
+    font-weight: 600;
     color: hsl(166, 100%, 37%);
     background-color: hsla(166, 100%, 37%, 0.1);
     border-radius: 8px;
@@ -158,7 +158,7 @@ body {
 }
 
 .container .righty .blue {
-    font-weight: 500;
+    font-weight: 600;
     color: hsl(234, 85%, 45%);
     background-color: hsla(234, 85%, 45%, 0.1);
     border-radius: 8px;
@@ -177,7 +177,7 @@ body {
 }
 
 .container .righty a {
-    font-weight: 500;
+    font-weight: 600;
     text-align: center;
     text-decoration: none;
     background-color: hsl(224, 30%, 27%);
@@ -198,7 +198,7 @@ body {
 }
 
 /*MEDIAQUERY*/
-@media only screen and (max-width: 375px){
+@media screen and (max-width: 375px) {
     .container {
         margin: auto;
         width: 100%;
